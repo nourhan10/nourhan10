@@ -28,6 +28,7 @@
 
 ### 🛍️ Rwady
 Cross-platform **e-commerce app** for buying and selling products with multiple payment methods.  
+**[Google Play](https://play.google.com/store/apps/details?id=com.example.rwady) | [App Store](https://apps.apple.com/app/id123456789)**
 **Features:**  
 - Product catalog, search, and filters  
 - Multiple payment options (cash, network, wallet)  
