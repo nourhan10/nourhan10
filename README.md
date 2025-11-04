@@ -28,7 +28,8 @@
 
 ### 🛍️ Rwady
 Cross-platform **e-commerce app** for buying and selling products with multiple payment methods.  
-**[Google Play](https://play.google.com/store/apps/details?id=com.example.rwady) | [App Store](https://apps.apple.com/app/id123456789)**
+**[Google Play](https://play.google.com/store/apps/details?id=com.rwady.app) | [App Store](https://apps.apple.com/us/app/rwady/id6751276331)**
+
 **Features:**  
 - Product catalog, search, and filters  
 - Multiple payment options (cash, network, wallet)  
@@ -47,6 +48,8 @@ Cross-platform **e-commerce app** for buying and selling products with multiple 
 
 ### 💅 Glint up (UAE)
 App for discovering **salon and clinic offers**, booking appointments, and sending gifts.  
+**[Google Play](https://play.google.com/store/apps/details?id=ae.glintup.app) | [App Store](https://apps.apple.com/eg/app/glintup-beauty-booking-ua/id6745605663)**
+
 **Features:**  
 - Browse offers for salons and clinics  
 - Book appointments instantly  
@@ -65,6 +68,8 @@ App for discovering **salon and clinic offers**, booking appointments, and sendi
 
 ### 📦 RDS Box
 E-commerce app specialized in selling **smart delivery boxes**.  
+**[App Store](https://apps.apple.com/us/app/rds-box/id6744166951)**
+
 **Features:**  
 - Smart delivery box catalog  
 - Secure checkout and order tracking  
