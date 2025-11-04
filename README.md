@@ -44,7 +44,7 @@ Cross-platform **e-commerce app** for buying and selling products with multiple 
 
 ---
 
-### 💅 Beauty Offers App (UAE)
+### 💅 Glint up (UAE)
 App for discovering **salon and clinic offers**, booking appointments, and sending gifts.  
 **Features:**  
 - Browse offers for salons and clinics  
