@@ -41,12 +41,13 @@ Cross-platform **e-commerce app** for buying and selling products with multiple 
 
 **Screenshots:**  
 <p align="center">
-  <!-- Add Rwady screenshots here -->
+  <img src="https://github.com/user-attachments/assets/93f60120-5cc7-4e70-aa0e-4974e60116c6" width="200" />
+  <img src="https://github.com/user-attachments/assets/1d5c83f5-adbe-48b2-bbcf-40a8cbc8d698" width="200" />
+  <img src="https://github.com/user-attachments/assets/67db4f54-aed1-45c6-97bb-16c4cc772039" width="200" />
 </p>
-
 ---
 
-### 💅 Glint up (UAE)
+### 💅 Glint up 
 App for discovering **salon and clinic offers**, booking appointments, and sending gifts.  
 **[Google Play](https://play.google.com/store/apps/details?id=ae.glintup.app) | [App Store](https://apps.apple.com/eg/app/glintup-beauty-booking-ua/id6745605663)**
 
@@ -61,7 +62,10 @@ App for discovering **salon and clinic offers**, booking appointments, and sendi
 
 **Screenshots:**  
 <p align="center">
-  <!-- Add Beauty Offers App screenshots here -->
+ <img width="375" height="843" alt="compelete order" src="https://github.com/user-attachments/assets/31408ed5-0773-4915-951e-e040d16a9f73" />
+<img width="375" height="1015" alt="Home 2" src="https://github.com/user-attachments/assets/8c0aa36b-b6d3-4014-96a9-be215e7139a1" />
+<img width="375" height="812" alt="order details" src="https://github.com/user-attachments/assets/12c73797-b38d-4131-a8fa-b561f244ac20" />
+
 </p>
 
 ---
@@ -80,24 +84,32 @@ E-commerce app specialized in selling **smart delivery boxes**.
 
 **Screenshots:**  
 <p align="center">
-  <!-- Add RDS Box screenshots here -->
+ <img width="375" height="813" alt="9" src="https://github.com/user-attachments/assets/ab0cf56d-10b4-4da0-ba9b-c0d5175591ca" />
+<img width="375" height="813" alt="8" src="https://github.com/user-attachments/assets/a5e2858a-05b6-4a1c-8a8f-9b3fdd6243b5" />
+<img width="375" height="813" alt="10" src="https://github.com/user-attachments/assets/0ecf67b1-5455-49a9-b7e3-28e40cc451e6" />
+
 </p>
 
 ---
 
-### 🅿️ Smart Parking
-Smart parking app for **booking and reserving parking spaces** with **Google Maps integration**.  
+### 🚘 Parket  
+Smart parking application for **booking and reserving parking spaces**.  
+**[Google Play](#) | [App Store](#)**
+
 **Features:**  
 - Real-time parking spot booking  
-- Google Maps integration for navigation  
-- Online payments and reservation tracking  
-- Smooth, responsive experience across devices  
-
-**Tech Stack:** Flutter, Firebase, Google Maps API  
+- Google Maps integration for live navigation  
+- Secure online payments  
+- Live availability status for each parking spot  
+- Modern and user-friendly interface  
+- Built with Flutter for Android & iOS  
 
 **Screenshots:**  
 <p align="center">
-  <!-- Add Smart Parking screenshots here -->
+<img width="375" height="895" alt="Reservations" src="https://github.com/user-attachments/assets/ae99a47e-d44a-4c9e-82db-52ee24605ff7" />
+<img width="375" height="812" alt="Parking Details 1 (1)" src="https://github.com/user-attachments/assets/d47ecf92-0cca-44a3-a6d7-03914ed039f4" />
+<img width="375" height="812" alt="Home2" src="https://github.com/user-attachments/assets/33509dfb-13e0-491c-9f0e-8ccb7dcce813" />
+
 </p>
 ---
 
@@ -129,7 +141,10 @@ Online store for **buying games, accounts, and in-game currency**.
 
 **Screenshots:**  
 <p align="center">
-  <!-- Add Glitch Store screenshots here -->
+ <img width="375" height="925" alt="كورية" src="https://github.com/user-attachments/assets/94bee581-5251-4a8d-ad25-3e289ce42aca" />
+<img width="375" height="1250" alt="Home (5)" src="https://github.com/user-attachments/assets/e48a2273-5b1a-40ab-8cdf-2ee2a6a96c1d" />
+<img width="375" height="1115" alt="Cart" src="https://github.com/user-attachments/assets/63615df0-f43d-4533-a81e-47b6ef3a1a83" />
+
 </p>
 
 ---
@@ -145,12 +160,11 @@ On-demand **car wash app** offering booking and doorstep cleaning services.
 **Tech Stack:** Flutter, Firebase, REST API  
 
 **Screenshots:**  
-<p align="center">
-  <img width="375" height="812" alt="Center Details" src="https://github.com/user-attachments/assets/9731209f-6e02-4c0c-94e8-5c82626d2d8b" />
-<img width="375" height="812" alt="Subscribe (1)" src="https://github.com/user-attachments/assets/ad5f8fb4-9da0-4af8-afde-74cc97aea26b" />
-<img width="375" height="895" alt="Wallet (1)" src="https://github.com/user-attachments/assets/96eb7c81-bc77-4af3-a30c-4d0501ce1a82" />
-<img width="375" height="812" alt="Home (2)" src="https://github.com/user-attachments/assets/ae1921e7-33d5-4a0c-ba5c-c0b7b69a129c" />
 
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/ad5f8fb4-9da0-4af8-afde-74cc97aea26b" width="200" />
+    <img src="https://github.com/user-attachments/assets/ae1921e7-33d5-4a0c-ba5c-c0b7b69a129c" width="200" />
+  <img src="https://github.com/user-attachments/assets/9731209f-6e02-4c0c-94e8-5c82626d2d8b" width="200" />
 </p>
 
 ---
@@ -186,7 +200,10 @@ Used in airports and major facilities across Saudi Arabia.
 
 **Screenshots:**  
 <p align="center">
-  <!-- Add Easy Parking screenshots here -->
+<img width="412" height="824" alt="Android Compact - 16" src="https://github.com/user-attachments/assets/2fc7a709-9047-45c9-8827-5827c5379deb" />
+<img width="412" height="824" alt="Android Compact - 8" src="https://github.com/user-attachments/assets/c0b376f6-5939-4591-8901-3c1025399c76" />
+<img width="412" height="824" alt="Android Compact - 4" src="https://github.com/user-attachments/assets/2f31a643-06d3-4a7a-8115-9d689d12d985" />
+
 </p>
 ---
 
@@ -202,7 +219,10 @@ Corporate app for **employee access and entry management**.
 
 **Screenshots:**  
 <p align="center">
-  <!-- Add KAUST screenshots here -->
+<img width="393" height="852" alt="Services Page" src="https://github.com/user-attachments/assets/93259675-2c59-465f-9fa7-b7aa3f6773dc" />
+<img width="393" height="852" alt="Vehicle Page" src="https://github.com/user-attachments/assets/62f5a2a0-992e-4001-9f9a-fd333b44e84a" />
+<img width="393" height="2174" alt="Vehicle ex info page" src="https://github.com/user-attachments/assets/aa5119cc-8467-4679-bdfe-02fc56e13b6c" />
+
 </p>
 
 ---
