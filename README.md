@@ -146,7 +146,11 @@ On-demand **car wash app** offering booking and doorstep cleaning services.
 
 **Screenshots:**  
 <p align="center">
-  <!-- Add CarWishha screenshots here -->
+  <img width="375" height="812" alt="Center Details" src="https://github.com/user-attachments/assets/9731209f-6e02-4c0c-94e8-5c82626d2d8b" />
+<img width="375" height="812" alt="Subscribe (1)" src="https://github.com/user-attachments/assets/ad5f8fb4-9da0-4af8-afde-74cc97aea26b" />
+<img width="375" height="895" alt="Wallet (1)" src="https://github.com/user-attachments/assets/96eb7c81-bc77-4af3-a30c-4d0501ce1a82" />
+<img width="375" height="812" alt="Home (2)" src="https://github.com/user-attachments/assets/ae1921e7-33d5-4a0c-ba5c-c0b7b69a129c" />
+
 </p>
 
 ---
