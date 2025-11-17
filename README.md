@@ -62,9 +62,10 @@ App for discovering **salon and clinic offers**, booking appointments, and sendi
 
 **Screenshots:**  
 <p align="center">
- <img width="375" height="843" alt="compelete order" src="https://github.com/user-attachments/assets/31408ed5-0773-4915-951e-e040d16a9f73" />
-<img width="375" height="1015" alt="Home 2" src="https://github.com/user-attachments/assets/8c0aa36b-b6d3-4014-96a9-be215e7139a1" />
-<img width="375" height="812" alt="order details" src="https://github.com/user-attachments/assets/12c73797-b38d-4131-a8fa-b561f244ac20" />
+ 
+<img  src="https://github.com/user-attachments/assets/8c0aa36b-b6d3-4014-96a9-be215e7139a1" width="200" />
+<img  src="https://github.com/user-attachments/assets/12c73797-b38d-4131-a8fa-b561f244ac20" width="200" />
+<img src="https://github.com/user-attachments/assets/31408ed5-0773-4915-951e-e040d16a9f73" width="200" />
 
 </p>
 
@@ -84,9 +85,10 @@ E-commerce app specialized in selling **smart delivery boxes**.
 
 **Screenshots:**  
 <p align="center">
- <img width="375" height="813" alt="9" src="https://github.com/user-attachments/assets/ab0cf56d-10b4-4da0-ba9b-c0d5175591ca" />
-<img width="375" height="813" alt="8" src="https://github.com/user-attachments/assets/a5e2858a-05b6-4a1c-8a8f-9b3fdd6243b5" />
-<img width="375" height="813" alt="10" src="https://github.com/user-attachments/assets/0ecf67b1-5455-49a9-b7e3-28e40cc451e6" />
+ 
+<img src="https://github.com/user-attachments/assets/a5e2858a-05b6-4a1c-8a8f-9b3fdd6243b5" width="200" />
+<img src="https://github.com/user-attachments/assets/0ecf67b1-5455-49a9-b7e3-28e40cc451e6" width="200" />
+<img src="https://github.com/user-attachments/assets/ab0cf56d-10b4-4da0-ba9b-c0d5175591ca" width="200" />
 
 </p>
 
@@ -106,9 +108,9 @@ Smart parking application for **booking and reserving parking spaces**.
 
 **Screenshots:**  
 <p align="center">
-<img width="375" height="895" alt="Reservations" src="https://github.com/user-attachments/assets/ae99a47e-d44a-4c9e-82db-52ee24605ff7" />
-<img width="375" height="812" alt="Parking Details 1 (1)" src="https://github.com/user-attachments/assets/d47ecf92-0cca-44a3-a6d7-03914ed039f4" />
-<img width="375" height="812" alt="Home2" src="https://github.com/user-attachments/assets/33509dfb-13e0-491c-9f0e-8ccb7dcce813" />
+  <img  src="https://github.com/user-attachments/assets/33509dfb-13e0-491c-9f0e-8ccb7dcce813" width="200"/>
+<img  src="https://github.com/user-attachments/assets/d47ecf92-0cca-44a3-a6d7-03914ed039f4" width="200"/>
+<img  src="https://github.com/user-attachments/assets/ae99a47e-d44a-4c9e-82db-52ee24605ff7" width="200"/>
 
 </p>
 ---
@@ -125,7 +127,10 @@ Vehicle violation management app used in **Riyadh Airports, King Fahd Medical Ci
 
 **Screenshots:**  
 <p align="center">
-  <!-- Add Violation App screenshots here -->
+  <img  src="https://github.com/user-attachments/assets/d7976694-f70e-4228-b252-4d339f6aae8f" width="200" />
+<img  src="https://github.com/user-attachments/assets/4c140ab4-edfd-4b79-8577-372bf26efd8c" width="200" />
+<img  src="https://github.com/user-attachments/assets/fa5fad61-f81e-4747-b8b6-e4bb42f686f6" width="200"/>
+
 </p>
 ---
 
@@ -141,9 +146,9 @@ Online store for **buying games, accounts, and in-game currency**.
 
 **Screenshots:**  
 <p align="center">
- <img width="375" height="925" alt="كورية" src="https://github.com/user-attachments/assets/94bee581-5251-4a8d-ad25-3e289ce42aca" />
-<img width="375" height="1250" alt="Home (5)" src="https://github.com/user-attachments/assets/e48a2273-5b1a-40ab-8cdf-2ee2a6a96c1d" />
-<img width="375" height="1115" alt="Cart" src="https://github.com/user-attachments/assets/63615df0-f43d-4533-a81e-47b6ef3a1a83" />
+  <img  src="https://github.com/user-attachments/assets/e48a2273-5b1a-40ab-8cdf-2ee2a6a96c1d" width="200"/>
+ <img  src="https://github.com/user-attachments/assets/94bee581-5251-4a8d-ad25-3e289ce42aca" width="200" />
+<img src="https://github.com/user-attachments/assets/63615df0-f43d-4533-a81e-47b6ef3a1a83" width="200"/>
 
 </p>
 
@@ -169,23 +174,6 @@ On-demand **car wash app** offering booking and doorstep cleaning services.
 
 ---
 
-### 👷 CarWishha Operator
-App for **car wash workers** to manage and track assigned orders.  
-**Features:**  
-- Manage and update assigned orders  
-- Real-time status tracking  
-- Map navigation and client communication  
-- Simple and efficient interface  
-
-**Tech Stack:** Flutter, Firebase  
-
-**Screenshots:**  
-<p align="center">
-  <!-- Add CarWishha Operator screenshots here -->
-</p>
-
----
-
 ### 🅿️ Easy Parking
 Smart parking management app for **booking, payments, and spot reservations**.  
 Used in airports and major facilities across Saudi Arabia.  
@@ -200,9 +188,10 @@ Used in airports and major facilities across Saudi Arabia.
 
 **Screenshots:**  
 <p align="center">
-<img width="412" height="824" alt="Android Compact - 16" src="https://github.com/user-attachments/assets/2fc7a709-9047-45c9-8827-5827c5379deb" />
-<img width="412" height="824" alt="Android Compact - 8" src="https://github.com/user-attachments/assets/c0b376f6-5939-4591-8901-3c1025399c76" />
-<img width="412" height="824" alt="Android Compact - 4" src="https://github.com/user-attachments/assets/2f31a643-06d3-4a7a-8115-9d689d12d985" />
+  <img  src="https://github.com/user-attachments/assets/2f31a643-06d3-4a7a-8115-9d689d12d985" width="200"/>
+<img  src="https://github.com/user-attachments/assets/2fc7a709-9047-45c9-8827-5827c5379deb" width="200"/>
+<img  src="https://github.com/user-attachments/assets/c0b376f6-5939-4591-8901-3c1025399c76" width="200"/>
+
 
 </p>
 ---
@@ -219,9 +208,9 @@ Corporate app for **employee access and entry management**.
 
 **Screenshots:**  
 <p align="center">
-<img width="393" height="852" alt="Services Page" src="https://github.com/user-attachments/assets/93259675-2c59-465f-9fa7-b7aa3f6773dc" />
-<img width="393" height="852" alt="Vehicle Page" src="https://github.com/user-attachments/assets/62f5a2a0-992e-4001-9f9a-fd333b44e84a" />
-<img width="393" height="2174" alt="Vehicle ex info page" src="https://github.com/user-attachments/assets/aa5119cc-8467-4679-bdfe-02fc56e13b6c" />
+<img  src="https://github.com/user-attachments/assets/93259675-2c59-465f-9fa7-b7aa3f6773dc" width="200"/>
+<img  src="https://github.com/user-attachments/assets/62f5a2a0-992e-4001-9f9a-fd333b44e84a" width="200"/>
+<img  src="https://github.com/user-attachments/assets/aa5119cc-8467-4679-bdfe-02fc56e13b6c" width="200"/>
 
 </p>
 
@@ -236,12 +225,16 @@ Retail app for **showcasing and selling store products**.
 - Modern and responsive UI  
 
 **Tech Stack:** Flutter, REST API  
+---
+### 👷 CarWishha Operator
+App for **car wash workers** to manage and track assigned orders.  
+**Features:**  
+- Manage and update assigned orders  
+- Real-time status tracking  
+- Map navigation and client communication  
+- Simple and efficient interface  
 
-**Screenshots:**  
-<p align="center">
-  <!-- Add AMZ screenshots here -->
-</p>
-
+**Tech Stack:** Flutter, Firebase  
 ---
 
 ## 📫 Contact
